@@ -18,21 +18,3 @@ plotly
 
 # Machine Learning (optional)
 scikit-learn
-xgboost
-
-# For working with models or serialized files
-joblib
-
-# For handling file uploads, if needed
-openpyxl  # for reading .xlsx files
-
-# NLP / Text analysis
-nltk
-spacy
-
-# Image processing
-Pillow
-opencv-python
-
-# Time series
-statsmodels
